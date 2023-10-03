@@ -1,4 +1,4 @@
-# GitLab Activity Report Generator
+# GitLab Activity Reporter
 
 > Important: There is a dependency: com.fasterxml.jackson.databind.ObjectMapper
 
@@ -6,16 +6,16 @@ For further information, please refer to the other .md files.
 
 **Introduction**
 
-The GitLab Report Helper is a tool designed to simplify the process of generating activity reports from GitLab. Whether you need to track project progress or monitor individual contributions, this utility streamlines the task.
+The GitLab Activity Reporter (GAR) is a tool designed to simplify the process of generating activity reports from GitLab. Whether you need to track project progress or monitor individual contributions, this utility streamlines the task.
 
 **Key Features**
 
-- **Effortless Reporting**: With GitLab Report Helper, creating detailed activity reports becomes a breeze.
+- **Effortless Reporting**: With GAR, creating detailed activity reports becomes a breeze.
 - **Dependency**: Please note that this project depends on `com.fasterxml.jackson.databind.ObjectMapper`. Ensure you have this dependency correctly set up before use.
 
 **Getting Started**
 
-To get started with GitLab Report Helper, follow these steps:
+To get started with GAR, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Ensure you have the required dependency, `com.fasterxml.jackson.databind.ObjectMapper`, correctly configured in your project.
@@ -27,7 +27,7 @@ Detailed usage instructions and examples can be found in the documentation. Plea
 
 **Contributing**
 
-We welcome contributions from the community! If you'd like to contribute to GitLab Report Helper, please follow our [contribution guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions from the community! If you'd like to contribute to GAR, please follow our [contribution guidelines](CONTRIBUTING.md) to get started.
 
 **License**
 
@@ -35,11 +35,11 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 **Acknowledgments**
 
-We would like to express our gratitude to the open-source community for their contributions and support in making GitLab Report Helper a valuable tool for GitLab users.
+We would like to express our gratitude to the open-source community for their contributions and support in making GAR a valuable tool for GitLab users.
 
 For any questions or issues, please don't hesitate to [open an issue](https://github.com/vyk1/gitlab-report-helper/issues).
 
-Thank you for choosing GitLab Report Helper to simplify your GitLab activity reporting needs!
+Thank you for choosing GAR to simplify your GitLab activity reporting needs!
 
 ## Problems building the project?
 

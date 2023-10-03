@@ -1,4 +1,4 @@
-package com.grh;
+package com.gar;
 
 import java.io.File;
 import java.text.SimpleDateFormat;
@@ -6,7 +6,7 @@ import java.util.Date;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public class FacilitadorRelatorio {
+public class GitlabActivityReporter {
 
 	public static class Author {
 
